@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "br.com.fernando.lojacomun",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.3",
+    "applicationType": "monolith",
+    "baseName": "lojaComun",
+    "packageName": "br.com.fernando.lojacomun",
+    "packageFolder": "br/com/fernando/lojacomun",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NWVkMjdmNmY0YzYyZDdjMTY2MDY3YmY0Nzg3ZmNjYzk5OWZkN2Q1MDE0MjI0NzdjYmU4MzU3OTEwYjE4OWQ0NmY4ZWVjY2U2OTg2NGFhMzE1Y2VlNmMxYWViYWU5MTg3ZTNjNzI3Njk2YTE3NTE4NmEwOTZmYTczMGY5ZmE0MjM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1601079939594,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": []
+  }
+}
